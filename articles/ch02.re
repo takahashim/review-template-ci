@@ -8,7 +8,15 @@
 
 //list[list01][サンプルリスト]{
 def foo
-  puts "hello"
+  puts "hello!"
 end
+
+foo
+//}
+
+
+//cmd{
+$ ruby sample.rb
+hello!
 //}
 
