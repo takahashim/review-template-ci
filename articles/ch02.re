@@ -14,6 +14,7 @@ end
 foo
 //}
 
+@<list>{list01}の参照です。
 
 //cmd{
 $ ruby sample.rb
